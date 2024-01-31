@@ -19,3 +19,12 @@
 6.FileSix:    write a program that accepts a directory name and deletes its content and sub-content.
 
 7.FileSeven:  write a program that accepts a directory name and changes all its contents to read-only mode.
+
+8.FileEight:  create a program that will check the file extension available in a specific folder and display the name of the filtered file.
+Use below approach.....
+
+>With lambda function approach
+
+>Create FileFILTER
+
+>Use reference of filefilter that should hold the lambda function that will hold the filterfile.
